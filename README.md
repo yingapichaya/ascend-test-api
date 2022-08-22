@@ -4,9 +4,10 @@
 Python 3.8.9
 
 ## Dependencies
+Install python dependecies
 
 ```pip3 install -r requirements.txt```
 
-### Run Test
+## Run Test
 
-```robot file.robot```
+```robot user_profile/user_profile.robot```
